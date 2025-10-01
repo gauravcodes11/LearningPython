@@ -8,6 +8,7 @@ print(s[-1])
 print(s[-3])'''
 
 #list
+a=[1,2,'gaurav']
 print(a)
 
 l=("gaurav","chess","cricket","gaurav")
