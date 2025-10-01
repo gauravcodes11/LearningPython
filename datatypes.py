@@ -1,11 +1,11 @@
 #string
-'''s=" gaurav upreti"
+s=" gaurav upreti"
 print(s)
 print(type(s))
 print(s[1])
 print(s[0])
 print(s[-1])
-print(s[-3])'''
+print(s[-3])
 
 #list
 a=[1,2,'gaurav']
